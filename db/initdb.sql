@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS dojonov;
+CREATE DATABASE dojonov;
+
